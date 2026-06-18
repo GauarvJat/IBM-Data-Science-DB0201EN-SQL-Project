@@ -41,16 +41,14 @@ The analysis answered several key questions:
 - **Education Insights**: Analyzed the relationship between school safety scores, student attendance, and school type.
 - **Socioeconomic Correlation**: Found associations between poverty levels, hardship index, and college enrollment rates across different community areas.
 
-## How to Run This Project
-To replicate this analysis on your local machine:
+## Technologies Used
 
-### Prerequisites
-- Python 3.x installed.
-- A code editor like VS Code or Jupyter Lab.
-- (Optional for the Db2 notebook) An IBM Db2 on Cloud instance.
+Python: The core programming language.
 
-### Installation
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/IBM-Data-Science-DB0201EN-SQL-Project.git](https://github.com/YOUR_USERNAME/IBM-Data-Science-DB0201EN-SQL-Project.git)
-    cd IBM-Data-Science-DB0201EN-SQL-Project
+Pandas: For data ingestion and manipulation.
+
+SQLite3 & SQLAlchemy: For database creation and connection.
+
+Jupyter Notebooks: For an interactive and reproducible analysis environment.
+
+IBM Db2: To demonstrate cloud database capabilities.
